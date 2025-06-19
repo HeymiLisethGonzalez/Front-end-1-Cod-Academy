@@ -6,11 +6,11 @@
 .hero-section {
     position: relative;
     height: 100vh;
-    background: url("https://media.istockphoto.com/id/1476339042/photo/work-desk-coffee-cup-and-microprocessors-on-a-plate-computer-screen-with-programming-text-cmd.jpg?s=612x612&w=is&k=20&c=sigUh0sFVT0HK8NidO6jrgWnkYoO0rvg_HdRnG2KZDA=") no-repeat center center/cover;
+    background: url("https://media.istockphoto.com/id/1387913618/photo/modern-interface-payments-online-shopping-and-icon-customer-network-connection.jpg?s=1024x1024&w=is&k=20&c=nPdbm4aJbigWd4M5v-6sbCul0WYR6wdCihysqA7V9GU=") no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #fff
 
 }
 
