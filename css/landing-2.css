@@ -1,0 +1,22 @@
+.opc-nav li a:hover {
+    color: rgb(31, 147, 186) !important;
+    border-bottom: 1px solid #00d2ff !important;
+}
+
+.hero-section {
+    position: relative;
+    height: 100vh;
+    background: url("https://media.istockphoto.com/id/1476339042/photo/work-desk-coffee-cup-and-microprocessors-on-a-plate-computer-screen-with-programming-text-cmd.jpg?s=612x612&w=is&k=20&c=sigUh0sFVT0HK8NidO6jrgWnkYoO0rvg_HdRnG2KZDA=") no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+
+}
+
+.hero-section .overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
