@@ -1,0 +1,7 @@
+.content {
+    margin-right: 0;
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
